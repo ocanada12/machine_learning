@@ -1,0 +1,5 @@
+[user]
+	name = 1-13
+[filesystem "Oracle Corporation|11.0.3|-386023909"]
+	timestampResolution = 1989 microseconds
+	minRacyThreshold = 0 nanoseconds
